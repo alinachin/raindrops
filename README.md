@@ -12,6 +12,12 @@ A method of animating raindrops that is suitable for real-time rendering, using 
 
 [Demonstration (YouTube)](https://www.youtube.com/watch?v=xvalLMvHtfI)
 
+![](images/Capture7.PNG)
+
+![](images/Capture8.PNG)
+
+![](images/particles.png)
+
 Requirements:
 - OpenGL 3
 - GLEW (Linux/Windows only)

@@ -10,3 +10,5 @@ generated/
 # LaTeX #
 *.loa
 *.lol
+
+Thumbs.db
